@@ -49,12 +49,11 @@
 
 <a href="https://api.whatsapp.com/send/?phone=201022808387&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Owner_Bot2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `▢يوتيوب المطور الرسمي (نشط)`
+### `▢مواقع المطور (نشط)`
 
 ### `▢ Desarrollador oficial de YouTube (activo)`
 
-<a href="https://www.youtube.com/@Zack_247">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+<a href="https://atom.bio/paplo_escobar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
 
