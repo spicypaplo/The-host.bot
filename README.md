@@ -1,11 +1,11 @@
 <p align="center">
  <img width="180px" src="https://envs.sh/Bre.jpg" align="center"/>
- <h2 align="center">TheMando-Bot-MD</h2>
- <p align="center">Este bot fue desarrollado por Zack y Naruto.</p>
+ <h2 align="center">thedivel-Bot-MD</h2>
+ <p align="center">Este bot fue desarrollado por paplo.</p>
 </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.menu">Comunicarse con el bot</a>
+  <a href="https://api.whatsapp.com/send?phone=+201022808387&text=&text=.menu">Comunicarse con el bot</a>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+201022808387&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
